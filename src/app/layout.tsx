@@ -42,6 +42,9 @@ export const metadata: Metadata = {
     title: "Capital Gainer",
     description: "Premium stock market research and advisory.",
   },
+  icons: {
+    icon: "/logo.png",
+  },
   robots: { index: true, follow: true },
 };
 
